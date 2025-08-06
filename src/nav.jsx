@@ -27,7 +27,7 @@ function Nar() {
   };
 
   return (
-    <div className="min-h-screen bg-white flex flex-col">
+    <div className=" bg-white flex flex-col">
       {/* Navigation Bar */}
       <nav className="bg-gray-900 text-white px-4 py-4 flex justify-end flex-wrap gap-4">
         {["Home", "About", "Contact"].map((tab) => (

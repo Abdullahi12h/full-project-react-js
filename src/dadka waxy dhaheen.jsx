@@ -3,7 +3,7 @@ function Testimonials() {
     <>
       <div className="text-center text-3xl font-semibold text-blue-500 mt-10">
         <h1>
-          Lorem ipsum dolor sit amet consectetur adipisicing.
+          Oraahyada ay dadka kaa dhaheen
         </h1>
       </div>
 
@@ -17,7 +17,7 @@ function Testimonials() {
             alt=""
           />
           <p className="text-gray-800 text-sm leading-relaxed max-w-md">
-            Abdullahi Abdinasir Hussein waa horumariye buuxa (Full Stack Developer) oo leh faham qoto dheer oo ku saabsan web development.
+            Abdullahi waa horumariye buuxa (Full Stack Developer) oo leh faham qoto dheer oo ku saabsan web development.
             Wuxuu si qoto dheer u yaqaanaa horumarinta frontend-ka iyo backend-ka labadaba.
             Farsamadiisa iyo xirfadiisu waxay si cad ugu muuqataa mashaariicda uu qabto...
           </p>
